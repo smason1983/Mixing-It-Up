@@ -13,3 +13,13 @@ puts 'Your momma did.'.to_f
 puts ''
 puts 'stringy'.to_s
 puts 3.to_i
+puts ''
+puts 20
+puts 20.to_s
+puts '20'
+puts gets
+puts ''
+puts 'Hello there, and what\'s your name?'
+name = gets.chomp
+puts 'Your name is ' + name + '? What a lovely name!'
+puts 'Please to meet you, ' + name + '. :)'
